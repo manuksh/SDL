@@ -1,5 +1,4 @@
-DESCRIPTION="""
-A service component typically refers to a software component that provides specific functionality or 
+"""A service component typically refers to a software component that provides specific functionality or 
 features to other parts of a software system or to external systems. It can be an integral part of a 
 larger application or system architecture, providing services such as data processing, communication, 
 or business logic.
